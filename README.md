@@ -1,8 +1,8 @@
 ### Hi there!
 I am a Medicinal Chemist Trainer at the [Wellcome Centre for Anti-Infectives Research](https://wcair.dundee.ac.uk), University of Dundee, Scotland.
 - 💬 Ask me about organic and medicinal chemistry
-- 🔭 I’m currently working on training material on Medicinal Chemistry to support trainees on and off-site using data analytics platforms such as [KNIME](https://www.knime.com)
-- 🌱 I’m currently learning more about Python, focusing on Pandas and [RDKit](https://www.rdkit.org), the open-source chemistry toolkit with Python bindings
+- 🔭 I’m currently working on training material on Medicinal Chemistry to support trainees on and off-site using data analytics platforms such as [KNIME](https://www.knime.com) - check out my [KNIME hub public space](https://hub.knime.com/cgraebin001), in which I am realeasing the components and workflows I have developed for the Wellcome Centre
+- 🌱 Currently learning more about Python, focusing on Pandas and [RDKit](https://www.rdkit.org), the open-source chemistry toolkit with Python bindings
 
 
 ### Contact:
